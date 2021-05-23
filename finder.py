@@ -5,7 +5,7 @@ class Finder:
         self.username = username
         self.password = password
 
-    def pepole_not_liker_us(self):
+    def pepole_not_like_us(self):
         pass
 
     def pepole_have_lot_of_following(self):
